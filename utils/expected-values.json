@@ -1,0 +1,9 @@
+{
+    "expectedName": "John Doe",
+    "expectedCity": "New York",
+    "expectedOrderAmounts": [
+        250,
+        150
+    ]
+}
+

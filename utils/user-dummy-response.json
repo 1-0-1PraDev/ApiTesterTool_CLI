@@ -1,0 +1,20 @@
+{
+    "user": {
+        "id": 123,
+        "name": "John Doe",
+        "address": {
+            "city": "New York",
+            "postalCode": "10001"
+        },
+        "orders": [
+            {
+                "id": 1,
+                "amount": 250
+            },
+            {
+                "id": 2,
+                "amount": 150
+            }
+        ]
+    }
+}
